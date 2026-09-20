@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zailaxi.github.io/yandexah/sitemap.xml
